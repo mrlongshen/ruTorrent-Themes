@@ -26,52 +26,52 @@ I decided to fork this repo because to gather all rutorrent themes. Sometimes th
 
 ## Installation
  
-**Agent34** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png)
+**Agent34** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/agent34.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/Agent34
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/Agent34
 ```
  
-**Agent46** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent46.png)
+**Agent46** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/agent46.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/Agent46
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/Agent46
 ```
  
-**OblivionBlue** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/oblivionblue.png)
+**OblivionBlue** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/oblivionblue.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/OblivionBlue
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/OblivionBlue
 ```
  
-**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/materialdesign.jpg)
+**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/materialdesign.jpg)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/MaterialDesign
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/MaterialDesign
 ```
  
-**FlatUI_Dark** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png)
+**FlatUI_Dark** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/FlatUI_Dark.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Dark
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Dark
 ```
  
-**FlatUI_Light** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Light.png)
+**FlatUI_Light** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/FlatUI_Light.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Light
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Light
 ```
  
-**FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Material.png)
+**FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/FlatUI_Material.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Material
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Material
 ```
  
-**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/club-QuickBox.png)
+**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/club-QuickBox.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/club-QuickBox
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/club-QuickBox
 ```
 
 **DarkBetter** [(screenshot)](https://i.imgur.com/PXXlJxq.png)
