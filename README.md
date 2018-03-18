@@ -1,5 +1,5 @@
 ## Motivation
-I decided to create this repo because the pre-installed ruTorrent themes are not very good looking and sometimes it's hard to find more 3rd party themes.
+I decided to fork this repo because to gather all rutorrent themes. Sometimes the link are dead, so all official rutorrent themes and 3rd party themes will be added in here.
 
 ## Source
 **The main purpose of this repo is to list all ruTorrent themes, I'm not going to always keep them up-to-date so here are the source links (in case you want a newer version) :**
