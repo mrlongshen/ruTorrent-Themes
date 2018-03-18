@@ -63,12 +63,13 @@ $ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Light
 ```
 
 **FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/FlatUI_Material.png)
+![screenshot](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/FlatUI_Material.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Material
 ```
 
-**club-QuickBox**
+**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/club-QuickBox.png)
 ![screenshot](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/club-QuickBox.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
