@@ -2,7 +2,7 @@
 I decided to create this repo because the pre-installed ruTorrent themes are not very good looking and sometimes it's hard to find more 3rd party themes.
 
 ## Source
-**The main purpose of this repo is to list the 3rd-party ruTorrent themes, I'm not going to always keep them up-to-date so here are the source links (in case you want a newer version) :**
+**The main purpose of this repo is to list all ruTorrent themes, I'm not going to always keep them up-to-date so here are the source links (in case you want a newer version) :**
  
 * [Agent34](https://code.google.com/p/agent34/)
  
@@ -15,6 +15,8 @@ I decided to create this repo because the pre-installed ruTorrent themes are not
 * [MaterialDesign](https://github.com/tomcdj71/ruTorrent-MaterialDesign)
 
 * [club-QuickBox](https://github.com/QuickBox/club-QuickBox)
+
+* [DarkBetter](https://github.com/chocolatkey/DarkBetter)
 
 ## Requirements
  
@@ -72,8 +74,12 @@ $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/club-QuickBox
 ```
 
-## Contributing
-If you'd like to contribute, please fork the repository and make changes as
-you'd like. Pull requests are warmly welcome.
+**DarkBetter** [(screenshot)](https://i.imgur.com/PXXlJxq.png)
+```
+$ cd /var/www/rutorrent/plugins/theme/themes
+$ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/DarkBetter
+```
 
-## Update by mrlongshen
+
+## Contributing
+This script are maintained by me (Grim Reaper).
