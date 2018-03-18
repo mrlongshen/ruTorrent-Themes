@@ -68,7 +68,8 @@ $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/FlatUI_Material
 ```
 
-**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/club-QuickBox.png)
+**club-QuickBox**
+![screenshot](https://raw.githubusercontent.com/mrlongshen/ruTorrent-Themes/master/club-QuickBox.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/mrlongshen/ruTorrent-Themes/trunk/club-QuickBox
