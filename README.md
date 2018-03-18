@@ -75,3 +75,5 @@ $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/club-QuickBox
 ## Contributing
 If you'd like to contribute, please fork the repository and make changes as
 you'd like. Pull requests are warmly welcome.
+
+## Testing
